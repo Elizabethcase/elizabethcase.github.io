@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Research
+title: Art
 ---
-<ul class="posts">
-  {% for post in site.posts %}
+<ul>
 
 Coming soon!
 
-  {% endfor %}
 </ul>

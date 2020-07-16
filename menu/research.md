@@ -2,10 +2,8 @@
 layout: page
 title: Research
 ---
-<ul class="posts">
-  {% for post in site.posts %}
+<ul>
 
 Coming soon!
 
-  {% endfor %}
 </ul>
