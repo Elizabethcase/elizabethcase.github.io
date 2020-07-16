@@ -11,4 +11,4 @@ This work was chosen for the [2019 Creative Climate Awards](https://www.humanimp
 
 ![Glitch art 2 ](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/dan_glitch.png?raw=true)
 
-![Glitch art 2 ](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/83glacier.webp?raw=true)
+![Glitch art 3 ](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/83glacier.webp?raw=true)
