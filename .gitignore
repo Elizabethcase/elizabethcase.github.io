@@ -2,4 +2,4 @@
 .DS_store
 
 #Ignore Jekyll site build
-/_site
+#/_site

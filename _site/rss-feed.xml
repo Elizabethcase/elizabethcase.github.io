@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Elizabeth Case</title>
+		<description>scientist, educator, writer</description>
+		<link>https://github.com/pages/Elizabethcase/elizabethcase.github.io</link>
+		<atom:link href="https://github.com/pages/Elizabethcase/elizabethcase.github.io/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>About the Author</title>
+				
+					<dc:creator>Elizabeth Case</dc:creator>
+				
+				
+					<description>&lt;p&gt;Hello! I’m Elizabeth Case. I’m a scientist, writer, and educator. Currently I’m working on my PhD at Columbia University and the Lamont-Dohety Earth Observatory. I’m the co-founder of &lt;a href=&quot;www.cycleforscience.org&quot;&gt;Cycle for Science&lt;/a&gt;. I have been published in Scientific American, the State of the Planet, and more.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 15 Jul 2020 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/journal/about-the-author.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/about-the-author.html</guid>
+			</item>
+		
+			<item>
+				<title>Learning Resources</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 10 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/journal/learning-resources.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/learning-resources.html</guid>
+			</item>
+		
+	</channel>
+</rss>
