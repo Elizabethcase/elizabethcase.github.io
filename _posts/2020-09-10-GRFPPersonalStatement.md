@@ -7,7 +7,7 @@ tags: [GRFP,fellowships,writing]
 image:
 ---
 
-#### Overview of the GRFP
+### Overview of the GRFP
 
 **You are the future**
 
@@ -19,7 +19,7 @@ The best way to convince NSF that you are all these things is by being explicit.
 
 You also show NSF how “future STEM leader” you are by paying really close attention to what NSF wants. What they say they want is: 2 pages for your research statement and 3 pages for your personal statement. Don’t exceed this. For your research statement, title or bold sections about intellectual merit and broader impact. Look up what these statements mean to NSF; they’re laid out in the call for applications (the "[program solicitation](https://www.nsf.gov/pubs/2020/nsf20587/nsf20587.htm) ← read this!"). For your personal statement, you also need intellectual merit and broader impact references, as well as sections about “personal, relevant background, and future goals”. Just make it easy on the reviewers, who are going to be exhausted and bored by the time they read your application, by creating headings with those words. 
 
-#### Specific Writing Tips
+### Specific Writing Tips
 
 **Build yourself up**. You don’t have a knack for something, you have excelled at it. You don’t love what you do, you have spent every summer sweating in 100 degree humidity chewed by mosquitoes to collect sedimentary samples that have never been looked at before. You haven’t changed your mind, each step you took led you directly to the next step. Is life this clean? No. Should we have to turn our lives into an easy narrative? No. Unfortunately, though, that’s the game we play right now. Also, remember that everything in your essay should be there to convince NSF that you have _already succeeded_ (and show remarkable promise), and so are a safe bet.
 
