@@ -3,3 +3,6 @@
 
 #Ignore Jekyll site build
 #/_site
+
+#Ignore unfinished posts
+_postsInPrep
