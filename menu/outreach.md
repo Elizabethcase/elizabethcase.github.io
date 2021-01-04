@@ -2,13 +2,14 @@
 layout: page
 title: Outreach & DEI
 ---
-<h1 style="color: #009999;">
+<p></p>
+<h2 style="color: #009999;">
 
 Cycle for Science
 
-</h1>
+</h2>
 <p>
-	In 2015, <a href="www.rachelectron.org">Rachel Woods-Robinson</a> and I launched Cycle for Science with a three-month bicycle-touring trip across the United States. Drawing on our background in physics, we developed the Sol Cycle, a miniature, 3D-printed, solar-powered bicycle that we used to teach hands-on classes about physics and renewable energy.
+	In 2015, <a href="http://www.rachelectron.org">Rachel Woods-Robinson</a> and I launched <a href = "https://www..cycleforscience.org">Cycle for Science</a> with a three-month bicycle-touring trip across the United States. Drawing on our background in physics, we developed the Sol Cycle, a miniature, 3D-printed, solar-powered bicycle that we used to teach hands-on classes about physics and renewable energy.
 </p>
 <p>
 	Since 2015, we have run numerous one-day and weeklong Cycle for Science programs across the country (and one in Europe!), with more on the way as soon as the pandemic subsides. We have developed new lesson plans, and in general, aim to teach what we've learned as informal educators to other scientists interested in meaningful community engagement.
@@ -22,11 +23,11 @@ Cycle for Science
 
 
 
-<h1 style="color: #2d6a4f;">
+<h2 style="color: #b32d00;">
 
 	Seminar on Race, Environmental Justice, and Climate Change
 
-</h1>
+</h2>
 <p>
 	Along with a team of dedicated graduate students, I helped found Columbia's first seminar dedicated to the intersection of race and the environment. We raised $30k to invite some of the world's leading environmental justice experts, developed a curriculum that centered traditionally marginalizd voices, and engaged students, staff, and faculty from across Columbia university.
 </p>
