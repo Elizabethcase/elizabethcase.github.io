@@ -11,7 +11,7 @@ menu:
 - {name: 'Research', path: 'menu', url: 'research.html'}
 - {name: 'Outreach', path: 'menu', url: 'outreach.html'}
 - {name: 'Blog', path: 'menu', url: 'blog.html'}
-- {name: 'Other Writing', path: 'menu', url: 'writing.html'}
+#- {name: 'Other Writing', path: 'menu', url: 'writing.html'}
 - {name: 'Art', path: 'menu', url: 'art.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
