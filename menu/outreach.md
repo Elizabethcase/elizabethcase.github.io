@@ -14,8 +14,12 @@ Cycle for Science
 	Since 2015, we have run numerous one-day and weeklong Cycle for Science programs across the country (and one in Europe!), with more on the way as soon as the pandemic subsides. We have developed new lesson plans, and in general, aim to teach what we've learned as informal educators to other scientists interested in meaningful community engagement.
 </p>
 <p>
-	As the founders of Cycle for Science, we were part of the inaugural cohort of the Environmental Leardship Program with SHIFT, have given talks and presentations at the American Geophysical Union and the Materials Research Society, and teamed up with <a href = "http://xraise.classe.cornell.edu/">Cornell's xRaise to ship the Sol Cycle out to educators everywhere</a>.
+	As an organization, we have reached more than 3500 students, raised $18000 through grants and from crowdfunding, were chosen as part of the inaugural cohort of the Environmental Leardship Program with SHIFT, have given talks and presentations at the American Geophysical Union and the Materials Research Society,  and teamed up with <a href = "http://xraise.classe.cornell.edu/">Cornell's xRaise to ship the Sol Cycle out to educators everywhere</a>.
 </p>
+<p>
+	We are currently looking for a fiscal sponsor as we transition into a non-profit. If you are interested in working with Cycle for Science, running your own trip, or helping the organization become a non-profit, please reach out!
+</p>
+
 
 
 <h1 style="color: #2d6a4f;">
