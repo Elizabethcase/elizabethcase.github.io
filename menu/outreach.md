@@ -3,7 +3,7 @@ layout: page
 title: Outreach & DEI
 ---
 <p></p>
-<h2 style="color: #009999;">
+<h2 style="color: #006666;">
 
 Cycle for Science
 
@@ -23,7 +23,7 @@ Cycle for Science
 
 
 
-<h2 style="color: #b32d00;">
+<h2 style="color: #006666;">
 
 	Seminar on Race, Environmental Justice, and Climate Change
 
