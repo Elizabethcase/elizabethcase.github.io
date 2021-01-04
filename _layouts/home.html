@@ -24,8 +24,8 @@ title: Home
               divId: "adobe-dc-view"
           });
           adobeDCView.previewFile({
-              content: { location: { url:"https://drive.google.com/file/d/1h0x-OV4dwMowibHjPgIdLUWYT9ODRs_A/view?usp=sharing" } },
-              metaData: { fileName: "Case_CV_2021.pdf" }
+              content: { promise: "{{site.github.url}}/assets/cv/Case_CV_2020_July.pdf"} },
+              metaData: { fileName: "Case_CV_2020_July.pdf" }
           }, {
               embedMode: "IN_LINE",
               showDownloadPDF: false,
@@ -37,6 +37,7 @@ title: Home
 </div>
 
 <!--
+  location: { url:"https://drive.google.com/file/d/1h0x-OV4dwMowibHjPgIdLUWYT9ODRs_A/view?usp=sharing"
 {% for post in paginator.posts %}
 <div class="posts">
   <h1>
