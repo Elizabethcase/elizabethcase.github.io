@@ -17,14 +17,15 @@ title: Home
   <div id="adobe-dc-view" style="width: 800px;"></div>
   <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
   <script type="text/javascript">
-      document.addEventListener("adobe_dc_view_sdk.ready", function () {
+      document.addEventListener("adobe_dc_view_sdk.ready", function () 
+      {
           var adobeDCView = new AdobeDC.View({
               clientId: "a23f0bc9032b495dae3fcef0a38498c3",
               divId: "adobe-dc-view"
           });
           adobeDCView.previewFile({
-              content: { location: { url: "https://drive.google.com/file/d/1h0x-OV4dwMowibHjPgIdLUWYT9ODRs_A/view?usp=sharing" } },
-              metaData: { fileName: "Case_CV_2021_Jan" }
+              content: { location: { url:"https://drive.google.com/file/d/1h0x-OV4dwMowibHjPgIdLUWYT9ODRs_A/view?usp=sharing" } },
+              metaData: { fileName: "Case_CV_2021.pdf" }
           }, {
               embedMode: "IN_LINE",
               showDownloadPDF: false,
