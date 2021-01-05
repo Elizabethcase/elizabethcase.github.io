@@ -18,10 +18,10 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 </p>
 <img src="{{ site.github.url }}/assets/img/M1.png">
 
-<div style="font-size: 10px; font-style: italic; line-height: 100%">
-<p>
+<div style="font-size: 10px; font-style: italic; line-height: 115%">
+
 Core observations, modelled velocity and densities, and compaction velocities.
-</p>
+
 <p>	
 Measured and modelled compaction velocities and densities from Fletcher Promontory (FP) and Skytrain Ice Rise (SIR). Left panels are from FP, and the right are from SIR, top panels are compaction velocities and bottom are densities. Yellow circles in the top panels are compaction velocities derived from pRES measurements using coincident cores. Uncertainties are derived by taking into account the signal-to-noise ratio of each englacial reflector used to computed vertical velocities and are represented by the width of the bar symbols. Grey circles in the bottom panels are ice-core measured densities. The dashed and solid lines show the model output, where the solid red lines are generated from a model tuned to pRES vertical velocities, and the dashed lines are generated from a model tuned to core densities.
 </p>
