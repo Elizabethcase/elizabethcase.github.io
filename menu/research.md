@@ -30,3 +30,4 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 <p> 
 	I am part of a newly funded NSF grant that will investigate the effects of temperature and overburden pressure on firn compaction. More info coming in 2021. 
 </p>
+
