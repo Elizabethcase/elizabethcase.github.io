@@ -18,7 +18,7 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 </p>
 <img src="{{ site.github.url }}/assets/img/M1.png">
 
-<div style="font-size: 10px; font-style: italic">
+<div style="font-size: 10px; font-style: italic; line-height: 100%">
 <p>
 Core observations, modelled velocity and densities, and compaction velocities.
 </p>
