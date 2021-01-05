@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Research
-image: JIRP_pRES.JPG
 ---
-
+<img src = "{{ site.github.url }}/assets/img/JIRP_pRES.JPG">
 <h2>
 	Measuring Firn Compaction 
 </h2>
