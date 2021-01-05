@@ -22,7 +22,12 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 
 <p>
 	The <a href = "https://juneauicefield.org/">Juneau Icefield Research Program</a> (JIRP) takes 30 high school, college, and postgraduates across the Juneau Icefield over 8 weeks in the summer season. Along the way, students learn about mountaineering, art and writing, and scientific research. I joined JIRP as a faculty instructor in 2018 and 2019, bringing phase-sensitive radars into the field to collect data about firn compaction on temperate glaciers, as well as taking firn cores and GPR measurements, collaborting with <a href = "http://www.hannahpmode.com/recent-work#/aquifer/">artist Hannah Perine Mode</a>, and teaching students introductory glaciology.
+</p>
 
+	<div class="thumbnail-container">
+		<img src="{{ site.github.url }}/assets/docs/cas_juneau_poster.png">
+	</div>
+	
 <h3>
 	Laboratory experiments
 </h3>
