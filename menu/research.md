@@ -14,7 +14,7 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 </h3>
 
 <p>
-	My PhD work has focused primarily on using phase-sensitive radar to measure firn compaction and compare these measurements to firn models. In work that has been submitted for publication and presented at many conferences, we show good agreement between firn models and the compaction rats measured by phase-sensitive radar. In essence, this means the community has a new, lightweight, inexpensive way of measuring continuous firn compaction, which could help us understand both temporal changes in compaction rates, and the impacts of environmental variables like temperature and accumulation rates, on the compaction process.
+	My PhD work has focused primarily on using phase-sensitive radar to measure firn compaction and compare these measurements to firn models. In work that has been submitted for publication and presented at many conferences, we show good agreement between firn models and the compaction rates measured by phase-sensitive radar. In essence, this means the community has a new, lightweight, inexpensive way of measuring continuous firn compaction, which could help us understand both temporal changes in compaction rates, and the impacts of environmental variables like temperature and accumulation rates, on the compaction process.
 
 <h3>
 	Juneau Icefield Research Program
@@ -27,6 +27,7 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 	<div class="thumbnail-container">
 		<img src="{{ site.github.url }}/assets/docs/cas_juneau_poster.png">
 	</div>
+<a href = "https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/docs/case_juneau_poster.pdf?raw=true"> *Click to download* </a> *a full version of this poster*
 	
 <h3>
 	Laboratory experiments
