@@ -15,7 +15,7 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 </h3>
 
 <p>
-	My PhD work has focused primarily on using phase-sensitive radar to measure firn compaction and compare these measurements to firn models. In work that has been submitted for publication and presented at many conferences, we show good agreement between firn models and the compaction rates measured by phase-sensitive radar. In essence, this means the community has a new, lightweight, inexpensive way of measuring continuous firn compaction, which could help us understand both temporal changes in compaction rates, and the impacts of environmental variables like temperature and accumulation rates, on the compaction process.
+	My PhD work, under <a href="http://www.jkingslake.com">Dr. Jonny Kingslake</a>, has focused primarily on using phase-sensitive radar to measure firn compaction and compare these measurements to firn models. In work that has been submitted for publication and presented at many conferences, we show good agreement between firn models and the compaction rates measured by phase-sensitive radar. In essence, this means the community has a new, lightweight, inexpensive way of measuring continuous firn compaction, which could help us understand both temporal changes in compaction rates, and the impacts of environmental variables like temperature and accumulation rates, on the compaction process.
 </p>
 <img src="{{ site.github.url }}/assets/img/M1.png">
 
