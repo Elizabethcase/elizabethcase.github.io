@@ -17,6 +17,6 @@ This work was chosen for the [2019 Creative Climate Awards](https://www.humanimp
 
 ## Firn Cores
 
-![Cyanotypes of cores]()
+![Cyanotypes of cores](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/hannah_aquifer_art.png?raw=true)
 
 While working as a member of the research faculty on the Juneau Icefield, I hand-drilled some firn cores to look at how the density of firn (old, compressed snow) changes with depth. I worked with Hannah Mode on to try to visually record the density using cyanotypes. A write up of the work with images can be [found here](http://www.hannahpmode.com/recent-work#/aquifer/).
