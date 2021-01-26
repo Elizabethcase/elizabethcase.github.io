@@ -54,7 +54,7 @@ Obsidian has both core and third-party plug-ins. I depend on a few for my worklo
 ### Other features that improve Obsidian:
 
 1. [Espanso](https://espanso.org/) -- a text expander
-	-  The `:bc` at the top of my Daily Notes template auto fills so that I can click to yesterday or tomorrow, e.g. `[[20210124-Sun|<< Yesterday]] | [[20210126-Tue|Tommorrow >>]`
+	-  The `:bc`  (short for breadcrumb) at the top of my Daily Notes template auto fills so that I can click to yesterday or tomorrow, e.g. `[[20210124-Sun|<< Yesterday]] | [[20210126-Tue|Tommorrow >>]`
 	- I also use `:meet` so that a meeting template auto generates, looks like: 
 ###  Meeting
 	- Tags:

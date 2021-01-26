@@ -4,10 +4,10 @@ title: Zotero as a Reference Manager
 author: "Elizabeth Case"
 categories: tools
 tags: [reference-manager, tech, tools, knowledge-management, zotero]
-image: zotero_library
+image: zotero_library.png
 ---
 
-While [Obsidian can be a useful tool](https://elizabethcase.github.io/tools/Obsidian.html) for managing your personal, day-to-day notes, the bulk of knowledge in a science PhD comes from papers. A reference management system is crucial for saving papers you read or plan to read, and organizing and exporting citations.
+While [Obsidian can be a useful tool](https://elizabethcase.github.io/tools/ObsidianForPhDs.html) for managing your personal, day-to-day notes, the bulk of knowledge in a science PhD comes from papers. A reference management system is crucial for saving papers you read or plan to read, and organizing and exporting citations.
 
 Other than a personal file management system (e.g. saving papers in folders of your choosing), there are two main software options: Mendeley and Zotero. Mendeley is owned by Elsevier, one of the largest scientific publishing companies in the world. Zotero is open source. In general, I try to use open source products where I can, because #powertothepeople, and open source developers tend to be more responsive to user needs.
 
@@ -19,8 +19,8 @@ So, Zotero is an open-source resource manager - a place for you to store, organi
 
 Zotero is organized into Libraries, which can be further subdivided into groups, sub-groups, etc. Personally, I think it is helpful to have two sets of folders in your library: 
 
-- one that contains all the papers for a particular research project/paper/thesis
-- another that groups papers by topic/keyword.
+- one that contains all the papers for a particular research project, paper, or thesis
+- another that groups papers by topic / keyword.
 
 Another useful folder for organization is the **inbox / to-read** (just make sure to refile papers you read!).
 
