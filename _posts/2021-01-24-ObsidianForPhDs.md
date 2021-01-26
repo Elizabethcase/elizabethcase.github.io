@@ -54,9 +54,8 @@ Obsidian has both core and third-party plug-ins. I depend on a few for my worklo
 ### Other features that improve Obsidian:
 
 1. [Espanso](https://espanso.org/) -- a text expander
-	-  The `:bc` at the top of my Daily Notes template auto fills so that I can click to yesterday or tomorrow, e.g. [[20210124-Sun|<< Yesterday]] | [[20210126-Tue|Tommorrow >>]
+	-  The `:bc` at the top of my Daily Notes template auto fills so that I can click to yesterday or tomorrow, e.g. `[[20210124-Sun|<< Yesterday]] | [[20210126-Tue|Tommorrow >>]`
 	- I also use `:meet` so that a meeting template auto generates, looks like: 
-` 
 ###  Meeting
 	- Tags:
 	- [Zoom link]()
@@ -64,7 +63,6 @@ Obsidian has both core and third-party plug-ins. I depend on a few for my worklo
 	- Attendees:
 	- Tasks:
 	- Notes: 
-`
 
 ### Features I would love to see/use:
 1. Scheduled reviews of notes - give me an easy way to do a weekly/ monthly review, e.g. autopopulate a note with that week's or month's Daily Notes. There's probably a hacky way to do this with regex + templates.
