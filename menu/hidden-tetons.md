@@ -66,9 +66,7 @@ You will likely visit at least seven glacier site, Middle Teton, Teton, Teepe, S
 ##### Ground-Penetrating Radar (GPR)
 
 Hopefully Dan McGrath (see the People to Connect With section was able to come up for the spring survey again and take more GPR data, which can tell us about the thickness of the ice and the thickness of the snowpack.  Here are the results form last year's GPR survey:
-![MT1 ](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/middle-teton-gpr.pngraw=true)
-
-![[middle-teton-gpr.png|400]]
+![Contour map of middle teton with outline of glacial extent and ground penetration radar (gpr) locations ](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/middle-teton-gpr.png?raw=true)
 
 _Figure 1. GPR from 2021 overlayed on LiDAR DEM of Middle Teton Glacier. Contours are in grey, the glacier outline from 2015 is in white, and the GPR points are colored by depth according to the colorbar on the right._
 
@@ -76,7 +74,7 @@ _Figure 1. GPR from 2021 overlayed on LiDAR DEM of Middle Teton Glacier. Contour
 
 At Middle Teton Glacier, we drill in ablation stakes every year. The full table from 2021 can be found at "…\\MiddleTeton\\GPS\\AblationStakeSurveys\\2021\\2021AccumulationSurveyAblationStakeData.xlsx". Throughout the summer, I updated the 2020 and 2019 tables whenever we were able to find those stakes. A map of the ablation stake data, with all data from all years, can be found at “… /MiddleTeton/Maps/MiddleTeton/2021/GRTE_MTG_2021_AblationStakes/GRTE_MTG_2021_AblationStakes.aprx
 
-![[middle-teton-ablation-stakes.png|400]]
+![Contour map with locations of Middle Teton ablation stakes](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/middle-teton-ablation-stakes.png?raw=true)
 
 _Figure 2. Map of the ablation stake locations_
 
@@ -84,7 +82,7 @@ _Figure 2. Map of the ablation stake locations_
 
 Once a year, usually in the fall when the summer melt has occurred, we take an elevation survey of Middle Teton Glacier with the help of the Jenny Lake Climbing Rangers.  We completed the fall survey in early September 2021. This data was compared to the elevation survey from fall 2020 to measure the change in ice volume. The ice thinned everywhere on the glacier, and the areas with the greatest amount of thinning (near the glacier terminus) saw up to 6.3 meters of ice loss. MTG is not long for this world... This process and updated maps were emailed to Simeon in November 2021 and hopefully added to the drive.. but if not feel free to get in touch with him or me about their location.
 
-![[middle-teton-ice-loss.png|400]]
+![NAIP imagery overlaid with grid of surface elevation gps measurements and colored by amount of loss from 2020-2021](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/middle-teton-ice-loss.png?raw=true)
 
 _Figure 3. Elevation difference between 2020 and 2021 Middle Teton Glacier elevation surfaces._
 
@@ -94,7 +92,7 @@ I do a lot of work in Matlab. If you're interested in programming or physics, it
 
 A widely used metric considers 0.1 km2 to be the minimum size of a glacier (e.g. see USGS). Schoolroom, Teepe and East Triple all fail to meet this criterion. However, it is unknown whether these glaciers are still moving -- this would be a great follow-up project.
    
-![[slab-model.png|400]]
+![Slab model outputs for 11 Teton glaciers](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/slab-model.png?raw=true)
 
 _Figure 4. Plots of modeled ice thickness at all 11 glaciers in GRTE. The color represents ice thickness. Some of the thicknesses are obviously too large; more work needs to be done to determine where this model represents likely depths, and where it overestimates them._
 
@@ -220,7 +218,7 @@ Because MTG is a small, steep glacier surrounded by some of GRTE's tallest peaks
 	- cameras should be deployed at sites identified in Step 1. This may involve: the development of a safe rappel/climbing protocol and help and coordination from/with the Jenny Lake Rangers
 6. Near end of 2022 season, recover cameras, process images, and decide on long-term deployment locations and protocols
 
-![[middle-teton-camera.png]]
+![Proposed locations of cliff-mounted cameras on google earth image](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/middle-teton-camera.png?raw=true)
 _Figure 5. Map of suggested camera placements_
-![[middle-teton-camera2.png]]
+![Proposed locations of cliff-mounted camera nearest gear cache](https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/middle-teton-camera2.png?raw=true)
 _Figure 6. Annotation of potential placements for Camera 1 in talus field behind cache_
