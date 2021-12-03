@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tetons
+title: Teton Letter to Next SIP
 ---
 
 Hi! 
