@@ -8,10 +8,21 @@ title: Meltwater Model
 ![Figure 1](https://raw.githubusercontent.com/Elizabethcase/elizabethcase.github.io/master/assets/img/ice_lens_leak_annotated.png)
 *Figure 1: Demonstration, see panels 1 and 2 - saturation in panel 2 decreases once rainwater boundary condition goes to zero; ice lens only begins to thicken after all fully saturated cells drain below S=1.
 
+![Figure 2](https://raw.githubusercontent.com/Elizabethcase/elizabethcase.github.io/master/assets/img/ice_lens_time_step.png)
+
 ## Attempts to fix
 
-
-
+1. Reset index of S and S_nm1 
+<s class="aside-left">(177)</s><s class="aside-in">solved discrepancy with S and S_nm1 but otherwise changed nothing</s>
+```
+if n>1
+	Theta_nm1 = Theta;
+	S_nm1 = S;
+	phi_nm1 = phi;
+else
+    [Theta_nm1,phi_nm1,S_nm1] = conversiontotemperature(H_nm1,W_nm1,Stefan);
+end
+```
 
 
 - Where is the water going?
@@ -21,5 +32,4 @@ title: Meltwater Model
 
 Main questions
 1. What is the intended indexing for vars (fluxes, cell states, velocities)?
-	1. Is that the indexing that has been executed?
-2. 
+
