@@ -5,7 +5,7 @@ title: Meltwater Model
 
 ## Main question: Why is water apparently leaking through an impermeable ice lens?
 
-![Figure 1](https://raw.githubusercontent.com/Elizabethcase/elizabethcase.github.io/master/assets/img/ice_lens_leak.png)
+![Figure 1](https://raw.githubusercontent.com/Elizabethcase/elizabethcase.github.io/master/assets/img/ice_lens_leak_annotated.png)
 *Figure 1: Demonstration, see panels 1 and 2 - saturation in panel 2 decreases once rainwater boundary condition goes to zero; ice lens only because to thicken after aquifer has drained (but from what water?)*
 
 ## Main questions
