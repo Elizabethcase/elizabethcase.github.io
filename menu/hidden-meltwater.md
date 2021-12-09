@@ -25,4 +25,5 @@ Main questions
 
 
 
-<s class="aside-in">testing the location of this side note</s>That means that JavaScript solutions, although often superior to pure CSS, are out of scope for this project and will not be used. Also out of scope are handling printed versions of web pages and integration with static site generators or other formats. Thankfully, all these useful applications can be well served by separate work that builds on top of Tufte CSS.
+That means that JavaScript solutions, although often superior to pure CSS, are out of scope for this project and will not be used.<label for="mn-1" class="margin-toggle"></label>
+<input type="checkbox" id="mn-1" class="margin-toggle"/><span class="marginnote">testing marginnote</span> Also out of scope are handling printed versions of web pages and integration with static site generators or other formats. Thankfully, all these useful applications can be well served by separate work that builds on top of Tufte CSS.
