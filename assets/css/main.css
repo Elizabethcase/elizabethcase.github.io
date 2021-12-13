@@ -29,7 +29,6 @@ body {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 12.5%;
   counter-reset: sidenote-counter;
 
 }
