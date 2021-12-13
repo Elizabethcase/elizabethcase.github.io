@@ -86,16 +86,22 @@ img {
   border-radius: 5px;
 }
 
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
+.img-main {
+  width: 40%;
+  margin-right: 5%;
+  float: left;
 }
 
 .img-small{
   max-width: 25%;
   height: auto;
   border-radius: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 blockquote {
