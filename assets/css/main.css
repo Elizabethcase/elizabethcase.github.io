@@ -81,7 +81,7 @@ a:hover {
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   border-radius: 5px;
 }
@@ -694,7 +694,4 @@ label.margin-toggle:not(.sidenote-number) {
         width: 85%;
     }
 
-    img {
-        width: 100%;
-    }
 }
