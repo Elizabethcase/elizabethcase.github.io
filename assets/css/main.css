@@ -81,9 +81,15 @@ a:hover {
 }
 
 img {
-  max-width: 50%;
+  max-width: 75%;
   height: auto;
   border-radius: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .img-small{
