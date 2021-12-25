@@ -4,7 +4,7 @@ title: Website Redesign Moodboard
 ---
 
 ## 3 adjectives
-playful, explorative, organized-mess (e.g. like a maximalist house)
+playful, explorative, maximalist-house
 
 ## use
 - easy to add to
@@ -29,7 +29,11 @@ playful, explorative, organized-mess (e.g. like a maximalist house)
 - digital gardens - connectivity, exploratory
 
 ## appearance
-- sketch, clean
+- sketch
+- clean
+- connecting lines
+- architecture portfolio but understandable
+- riso
 
 <p float="left">
   <img src="https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/moodboard/IMG_4474.jpg?raw=true" width="200" />
