@@ -2,9 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Elizabeth Case</title>
-		<description>scientist, educator, writer</description>
+		<description></description>
 		<link>https://github.com/pages/Elizabethcase/elizabethcase.github.io</link>
 		<atom:link href="https://github.com/pages/Elizabethcase/elizabethcase.github.io/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Zotero as a Reference Manager</title>
+				
+					<dc:creator>Elizabeth Case</dc:creator>
+				
+				
+					<description>&lt;p&gt;While &lt;a href=&quot;https://elizabethcase.github.io/tools/ObsidianForPhDs.html&quot;&gt;Obsidian can be a useful tool&lt;/a&gt; for managing your personal, day-to-day notes, the bulk of knowledge in a science PhD comes from papers. A reference management system is crucial for saving papers you read or plan to read, and organizing and exporting citations.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 25 Jan 2021 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/tools/ZoteroIntro.html</link>
+				<guid isPermaLink="true">http://localhost:4000/tools/ZoteroIntro.html</guid>
+			</item>
+		
+			<item>
+				<title>Obsidian, the answer to note-taking for the PhD?</title>
+				
+					<dc:creator>Elizabeth Case</dc:creator>
+				
+				
+					<description>&lt;p&gt;My whole life I’ve struggled to stay organized, and the latest iteration of this battle is notetaking for knowledge building – a.k.a. how to learn and remember what I learn for my PhD.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 24 Jan 2021 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/tools/ObsidianForPhDs.html</link>
+				<guid isPermaLink="true">http://localhost:4000/tools/ObsidianForPhDs.html</guid>
+			</item>
+		
+			<item>
+				<title>Choosing a Mechanical Keyboard</title>
+				
+					<dc:creator>Elizabeth Case</dc:creator>
+				
+				
+					<description>&lt;p&gt;I went down a narrow but deep rabbit hole this last weekend, after my partner’s five-year old (external) Apple keyboard crapped out on me. My laptop keyboard has been going down the drain for a while now too – it’s a 2016 Macbook Pro, which has the now-outdated butterfly keys that are notorious for breaking. My &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;e&lt;/em&gt; keys fall out regularly now, and the rest of the keyboard is on its way.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 05 Jan 2021 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/tools/MechanicalKeyboards.html</link>
+				<guid isPermaLink="true">http://localhost:4000/tools/MechanicalKeyboards.html</guid>
+			</item>
+		
+			<item>
+				<title>Black Point Trailhead</title>
+				
+					<dc:creator>Elizabeth Case</dc:creator>
+				
+				
+					<description>&lt;p&gt;All day I thought this was called the Black &lt;em&gt;Sand&lt;/em&gt; Point Trailhead, but anyways that would have been a misnomer – no sand here! The rocks haven’t yet been worn down by time and water yet, still the rocky, chunky, hard wholes that makes up much of the rugged and beloved Rhode Island coastline&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 28 Dec 2020 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/weirdwalksinri/BlackPointTrailhead.html</link>
+				<guid isPermaLink="true">http://localhost:4000/weirdwalksinri/BlackPointTrailhead.html</guid>
+			</item>
+		
+			<item>
+				<title>The West Greenwich Sand Dunes</title>
+				
+					<dc:creator>Elizabeth Case</dc:creator>
+				
+				
+					<description>&lt;p&gt;An expanse of coarse sand that serves up a distinct first impression of “toxic wasteland” or “nuclear storage site”, the &lt;a href=&quot;https://www.google.com/maps?q=west+greenwich+sand+dunes&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;sa=X&amp;amp;ved=2ahUKEwjxuNSrssvtAhVouVkKHTDbAk0Q_AUoAXoECBUQAw&quot;&gt;West Greenwich Sand Dunes&lt;/a&gt; transport you and your family to the post-apocalypse. In other words, the perfect place to go for a walk in 2020!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/weirdwalksinri/WestGreenwichSandDunes.html</link>
+				<guid isPermaLink="true">http://localhost:4000/weirdwalksinri/WestGreenwichSandDunes.html</guid>
+			</item>
+		
+			<item>
+				<title>Acing the NSF GRFP Personal Statement</title>
+				
+					<dc:creator>Elizabeth Case</dc:creator>
+				
+				
+					<description>&lt;p&gt;The &lt;a href=&quot;https://www.nsfgrfp.org/&quot;&gt;NSF GRFP&lt;/a&gt; is a trial-by-fire rite of passage for many graduate students. It is a five-year fellowship that comes with three years of funding and some other perks, including the GROW (international research exchange) and GRIP (national research internships) programs. It can open a lot of doors – allowing you freedom in what you research and helping gain entrance into programs that may not have otherwise have promised full funding. I applied twice – first, as an incoming student, and then a first-year student in my first attempt at a PhD (more on that later). I’ve been a fellow since 2016, and have edited many statements since. This post is a compilation of that experience. Here are links to: &lt;a href=&quot;https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/docs/Case_PersonalStatement_final_2015.pdf?raw=true&quot;&gt;personal statement&lt;/a&gt; and &lt;a href=&quot;https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/docs/Case_ResearchProposal_final_2015.pdf?raw=true&quot;&gt;research statement&lt;/a&gt;. Feel free to share these.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 10 Sep 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/journal/GRFPPersonalStatement.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/GRFPPersonalStatement.html</guid>
+			</item>
 		
 			<item>
 				<title>About the Author</title>
@@ -12,27 +102,12 @@
 					<dc:creator>Elizabeth Case</dc:creator>
 				
 				
-					<description>&lt;p&gt;Hello! I’m Elizabeth Case. I’m a scientist, writer, and educator. Currently I’m working on my PhD at Columbia University and the Lamont-Dohety Earth Observatory. I’m the co-founder of &lt;a href=&quot;www.cycleforscience.org&quot;&gt;Cycle for Science&lt;/a&gt;. I have been published in Scientific American, the State of the Planet, and more.&lt;/p&gt;
+					<description>&lt;p&gt;Hello! I’m Elizabeth Case. I’m a scientist, writer, and educator. Currently I’m working on my PhD at Columbia University and the Lamont-Doherty Earth Observatory. I’m the co-founder of &lt;a href=&quot;www.cycleforscience.org&quot;&gt;Cycle for Science&lt;/a&gt;. I have been published in Scientific American, the State of the Planet, and more.&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 15 Jul 2020 00:00:00 -0700</pubDate>
+				<pubDate>Wed, 15 Jul 2020 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/journal/about-the-author.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/about-the-author.html</guid>
-			</item>
-		
-			<item>
-				<title>Learning Resources</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 10 Oct 2013 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/journal/learning-resources.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/learning-resources.html</guid>
 			</item>
 		
 	</channel>
