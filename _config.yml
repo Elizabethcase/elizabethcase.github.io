@@ -24,6 +24,9 @@ title:		           'Elizabeth Case'
 description:	       ''
 author:              'Elizabeth Case, adapted from Paul Le'
 
+# GitHub
+github: [metadat]
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
