@@ -64,6 +64,11 @@ playful, explorative, maximalist-house
   <img src="https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/moodboard/IMG_4472.jpg?raw=true" width="200" />
   <img src="https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/img/moodboard/IMG_4473.jpg?raw=true" width="200" />
 </p>
+<p float="left">
+  <img src="https://pbs.twimg.com/media/EvEvkOzXUAUlIIW?format=jpg&name=small" width="200" />
+
+</p>
+
 
 ### philosphy
 - what is centered (influences, interests, work, myself, nothing?)? does it change?
