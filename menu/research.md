@@ -30,9 +30,21 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 
 p.s this is what some ApRES data sounds like
 
-East GRIP, Greenland - {% include embed-audio.html src="/assets/audio/EGripSonify.wav" %}
-Juneau Icefield - {% include embed-audio.html src="/assets/audio/JuneauSonify.wav" %}
-A wall at Lamont - {% include embed-audio.html src="/assets/audio/wall_sonify.wav" %}
+Ronne Ice Shelf, Antarctica (Nicholls et al. 2015)
+
+../assets/audio/AntarcticSonify.wav"
+
+East GRIP, Greenland (not sure where this is from, so sorry!)
+
+../assets/audio/EGripSonify.wav"
+
+Juneau Icefield
+
+../assets/audio/JuneauSonify.wav"
+
+A wall at Lamont
+
+../assets/audio/wall_sonify.wav"
 
 <h3>
 	Juneau Icefield Research Program
