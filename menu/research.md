@@ -5,7 +5,7 @@ title: Research
 <img src="{{ site.github.url }}/assets/img/JIRP_pRES.png">
 
 <h2>
-	Measuring Firn Compaction 
+	Measuring Firn Compaction
 </h2>
 
 Firn is old snow (> 1 year) and firn compaction is the process that turns snow into glacial ice. An understanding of firn compaction is vital for constraining past, present, and future climate. Changing firn compaction affects altimetry-based estimates of mass balance across glaciers and ice sheets, and changing firn thickness affects the amount of time air in the firn can mix with air in the atmosphere, which in turn affects the age difference between air in bubbles found in glacial ice, and the surrounding ice crystals.
@@ -23,10 +23,17 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 
 	Core observations, modelled velocity and densities, and compaction velocities.
 
-<p>	
+<p>
 	Measured and modelled compaction velocities and densities from Fletcher Promontory (FP) and Skytrain Ice Rise (SIR). Left panels are from FP, and the right are from SIR, top panels are compaction velocities and bottom are densities. Yellow circles in the top panels are compaction velocities derived from pRES measurements using coincident cores. Uncertainties are derived by taking into account the signal-to-noise ratio of each englacial reflector used to computed vertical velocities and are represented by the width of the bar symbols. Grey circles in the bottom panels are ice-core measured densities. The dashed and solid lines show the model output, where the solid red lines are generated from a model tuned to pRES vertical velocities, and the dashed lines are generated from a model tuned to core densities.
 </p>
 </div>
+
+p.s this is what some ApRES data sounds like
+
+East GRIP, Greenland - {% include embed-audio.html src="/assets/audio/EGripSonify.wav" %}
+Juneau Icefield - {% include embed-audio.html src="/assets/audio/JuneauSonify.wav" %}
+A wall at Lamont - {% include embed-audio.html src="/assets/audio/wall_sonify.wav" %}
+
 <h3>
 	Juneau Icefield Research Program
 </h3>
@@ -38,12 +45,11 @@ Firn is old snow (> 1 year) and firn compaction is the process that turns snow i
 <img src="{{ site.github.url }}/assets/docs/case_juneau_poster.png">
 
 <a href = "https://github.com/Elizabethcase/elizabethcase.github.io/blob/master/assets/docs/case_juneau_poster.pdf?raw=true">Click to download </a>a full version of this poster.
-	
+
 <h3>
 	Laboratory experiments
 </h3>
 
-<p> 
-	I am part of a newly funded NSF grant that will investigate the effects of temperature and overburden pressure on firn compaction. More info coming in 2021. 
+<p>
+	I am part of a newly funded NSF grant that will investigate the effects of temperature and overburden pressure on firn compaction. More info coming in 2021.
 </p>
-
