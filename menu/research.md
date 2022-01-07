@@ -32,19 +32,19 @@ p.s this is what some ApRES data sounds like
 
 Ronne Ice Shelf, Antarctica (Nicholls et al. 2015)
 
-../assets/audio/AntarcticSonify.wav"
+../../assets/audio/AntarcticSonify.wav
 
 East GRIP, Greenland (not sure where this is from, so sorry!)
 
-../assets/audio/EGripSonify.wav"
+../assets/audio/EGripSonify.wav
 
 Juneau Icefield
 
-../assets/audio/JuneauSonify.wav"
+../assets/audio/JuneauSonify.wav
 
 A wall at Lamont
 
-../assets/audio/wall_sonify.wav"
+../assets/audio/wall_sonify.wav
 
 <h3>
 	Juneau Icefield Research Program
