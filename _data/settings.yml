@@ -8,18 +8,11 @@ google-ID:
 
 menu:
 - {name: 'About', path: '', url: ''}
-- {name: 'Research', path: 'menu', url: 'research.html'}
-- {name: 'Outreach', path: 'menu', url: 'outreach.html'}
 - {name: 'Blog', path: 'menu', url: 'blog.html'}
-#- {name: 'Other Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Art', path: 'menu', url: 'art.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
-- {name: 'Newsletter', path: 'menu', url: 'newsletter.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/elizabethcase'}
-- {icon: 'twitter', link: 'https://twitter.com/elizabeth_case'}
 - {icon: 'envelope', link: 'mailto:ehc2150@columbia.edu'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
